@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+python-dotenv
+requests
+numpy
+matplotlib
+shapely
+folium
+opendssdirect.py
